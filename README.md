@@ -3,7 +3,7 @@
 [redheadindustries.xyz](https://redheadindustries.xyz)
 
 # SimpleBoot – Turn your phone into a bootable USB device!
-**Version:** v2.1 “Monster – Milestone 2”  
+**Version:** v2.1 [BETA] “Monster – Milestone 2”  
 **License:** GNU General Public License v3 (GPLv3)  
 **Developer:** RedHead Industries (Technologies Branch) + Matthew DaLuz [@matthewdaluz](https://github.com/matthewdaluz)
 
